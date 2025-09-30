@@ -1,58 +1,69 @@
 # 👋 Hi, I’m Muhammad Husnain Ali  
 
-💡 I’m a **Python** and **Rust** developer specializing in **AI-powered automation workflows**, **LLM fine-tuning**, and **production-grade agentic systems**. I design and deploy **end-to-end intelligent pipelines** that combine **LLMs, RAG, and automation tools**, serving **thousands to millions of users in production** through **FastAPI APIs**.  
+I’m a **Python** and **Rust** developer with **3+ years of experience as an AI Engineer**, building **production-grade AI systems** that serve **real-world users** at scale. My expertise spans **LLM fine-tuning, agentic AI, automation pipelines, and cloud-native deployments**, with solutions powering **thousands to millions of users** via **FastAPI APIs**.  
 
 ---
 
-## 🔧 Technical Expertise  
+##  Technical Expertise  
 
 ### **Programming Languages**  
 - **Python** (Primary)  
 - **Rust**  
 
 ### **LLM Fine-Tuning & AI Systems**  
-- Advanced fine-tuning techniques: **LoRA, QLoRA, PEFT, RLHF**  
+- Advanced fine-tuning: **LoRA, QLoRA, PEFT, RLHF**  
 - **Agentic AI frameworks**: LangChain, LangGraph, CrewAI, OpenAI Agents, Google Agents, Haystack  
 - **RAG pipelines** for scalable knowledge retrieval  
-- Built **20+ agentic & data pipelines** deployed in production at scale  
+- Designed & deployed **20+ production-grade pipelines**  
+
+### **Vector Databases & Retrieval**  
+- **Azure AI Search**, **Qdrant**, **OpenSearch**, **FAISS**, **Chroma**, **Weaviate**  
+- Architecting scalable **vector search & retrieval systems**  
 
 ### **Automation & Workflow Orchestration**  
-- Workflow automation with **n8n**, **Zapier**, **Make**, and **Azure Logic Apps**  
-- Building **AI-driven orchestration pipelines** for enterprises  
-- Integrations with cloud-native automation and external APIs  
+- Workflow automation: **n8n**, **Zapier**, **Make**, **Azure Logic Apps**  
+- End-to-end AI-driven orchestration pipelines  
+- Enterprise-grade cloud-native integrations  
 
 ### **Cloud Platforms & Deployment**  
-- **Microsoft Azure** (Primary):  
-  - Azure AI Foundry, Azure Document Intelligence, Azure AI Search  
-  - Containerized deployments with Azure Container Apps  
-  - Cosmos DB, Azure Function Apps, Azure Storage Accounts  
-- **AWS** & **GCP**: multi-cloud integrations & deployment strategies  
+- **Microsoft Azure (Primary)**: AI Foundry, Document Intelligence, AI Search, Container Apps, Cosmos DB, Function Apps, Storage Accounts  
+- **AWS** & **GCP**: multi-cloud integrations, scaling & deployments  
 
-### **DevOps & Cloud-Native Development**  
-- Containerization with **Docker**  
-- Production-grade deployments with **FastAPI APIs** serving **1K–1M+ users**  
-- Infrastructure automation, monitoring, and optimization  
+### **CI/CD & DevOps for AI/LLMs**  
+- CI/CD pipelines for **LLM & ML model deployments**  
+- Containerization & orchestration with **Docker** & cloud-native workflows  
+- Model lifecycle automation & monitoring  
 
----
+### **Model Serving & Monitoring**  
+- Serving frameworks: **vLLM, NVIDIA Triton, Ollama** (deployment based on workload factors)  
+- Monitoring & observability: **Langfuse, LangSmith, MLflow, TensorBoard**  
+- Performance optimization & real-time feedback loops  
 
-## 📌 What I Build  
-- 🚀 **LLM Fine-Tuning Solutions** – Specialized pipelines for domain-specific tasks  
-- 🤖 **Agentic AI Systems** – Multi-agent workflows (LangChain, LangGraph, CrewAI, etc.)  
-- 🔍 **RAG-based Retrieval Systems** – Scalable, intelligent document & knowledge search  
-- ⚡ **AI Automation Workflows** – Business automation with n8n, Zapier, and Azure Logic Apps  
-- ☁️ **Cloud-Native AI Deployments** – High-performance APIs & microservices on Azure/AWS/GCP  
+### **Machine Learning & Data Science Frameworks**  
+- **PyTorch**, **TensorFlow**, **Scikit-learn**  
+- Data wrangling & analytics: **NumPy, Pandas, Seaborn**  
+- End-to-end ML workflows from prototyping to production  
 
 ---
 
-## 🌱 Currently Exploring  
-- Cutting-edge **genetic pipelines for agent orchestration**  
-- **Multi-cloud strategies** for scaling AI workloads  
-- AI-driven **automation-first DevOps pipelines**  
+##  What I Build  
+-  **LLM Fine-Tuning Solutions** – Domain-specific, efficient pipelines (LoRA, QLoRA, PEFT, RLHF)  
+-  **Agentic AI Systems** – Multi-agent intelligent workflows (LangChain, LangGraph, CrewAI, etc.)  
+-  **Vector-Powered RAG Systems** – Knowledge retrieval at scale using FAISS, Qdrant, Chroma & more  
+-  **AI Automation Workflows** – Business automation with n8n, Zapier, Azure Logic Apps  
+-  **Cloud-Native Deployments** – High-performance FastAPI APIs & microservices serving 1K–1M+ users  
 
 ---
 
-📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/muhammadhusnainali73/)  
+## Currently Exploring  
+- Cutting-edge **Agentic pipelines for agent orchestration**  
+- Advanced **multi-cloud strategies** for scaling LLM workloads  
+- **AI-first DevOps pipelines** integrating CI/CD, monitoring & automation  
 
 ---
 
-🔥 *“I don’t just prototype AI pipelines—I ship them to production, where they scale to serve real users.”*  
+**Connect with me**: [LinkedIn](https://www.linkedin.com/in/muhammadhusnainali73/)  
+
+---
+
+ *“Remember : I don’t just prototype AI pipelines I ship them to production, where they serve real users at scale.”*  
