@@ -68,15 +68,9 @@ pip install agent-harness-adk connector-for-ai-agents
 </p>
 
 ### Agentic AI & LLMs
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP"/>
-<img src="https://img.shields.io/badge/A2A-0F766E?style=for-the-badge" alt="A2A"/>
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP"/> <img src="https://img.shields.io/badge/A2A-0F766E?style=for-the-badge" alt="A2A"/>
+</p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -88,24 +82,14 @@ pip install agent-harness-adk connector-for-ai-agents
 </details>
 
 ### Microsoft AI Stack
-<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge" alt="Azure AI Foundry"/>
-<img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge" alt="Copilot Studio"/>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI"/>
-<img src="https://img.shields.io/badge/AI%20Search-0078D4?style=for-the-badge" alt="AI Search"/>
-<img src="https://img.shields.io/badge/Document%20Intelligence-0078D4?style=for-the-badge" alt="Document Intelligence"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge" alt="Microsoft Fabric"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/>
+<p>
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge" alt="Azure AI Foundry"/> <img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge" alt="Copilot Studio"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI"/> <img src="https://img.shields.io/badge/AI%20Search-0078D4?style=for-the-badge" alt="AI Search"/> <img src="https://img.shields.io/badge/Document%20Intelligence-0078D4?style=for-the-badge" alt="Document Intelligence"/> <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge" alt="Microsoft Fabric"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/>
+</p>
 
 ### Fine-Tuning & Machine Learning
-<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7C3AED?style=for-the-badge" alt="LoRA / QLoRA"/>
-<img src="https://img.shields.io/badge/PEFT-7C3AED?style=for-the-badge" alt="PEFT"/>
-<img src="https://img.shields.io/badge/RLHF-7C3AED?style=for-the-badge" alt="RLHF"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" alt="YOLO"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<p>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7C3AED?style=for-the-badge" alt="LoRA / QLoRA"/> <img src="https://img.shields.io/badge/PEFT-7C3AED?style=for-the-badge" alt="PEFT"/> <img src="https://img.shields.io/badge/RLHF-7C3AED?style=for-the-badge" alt="RLHF"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" alt="YOLO"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -116,15 +100,9 @@ pip install agent-harness-adk connector-for-ai-agents
 </details>
 
 ### Vector Search & Data
-<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge" alt="Azure AI Search"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" alt="Weaviate"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge" alt="Chroma"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<p>
+<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge" alt="Azure AI Search"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/> <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" alt="Weaviate"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/> <img src="https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge" alt="Chroma"/> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -135,13 +113,9 @@ pip install agent-harness-adk connector-for-ai-agents
 </details>
 
 ### Architecture & Cloud
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Microservices-334155?style=for-the-badge" alt="Microservices"/>
-<img src="https://img.shields.io/badge/Event--Driven-334155?style=for-the-badge" alt="Event-Driven"/>
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Microservices-334155?style=for-the-badge" alt="Microservices"/> <img src="https://img.shields.io/badge/Event--Driven-334155?style=for-the-badge" alt="Event-Driven"/>
+</p>
 
 <details>
 <summary><b>Details</b></summary>
@@ -153,23 +127,14 @@ pip install agent-harness-adk connector-for-ai-agents
 </details>
 
 ### MLOps / LLMOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge" alt="Azure DevOps"/>
-<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM"/>
-<img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse"/>
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge" alt="Azure DevOps"/> <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM"/> <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+</p>
 
 ### Automation
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
-<img src="https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=for-the-badge" alt="Azure Logic Apps"/>
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/>
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/> <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/> <img src="https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=for-the-badge" alt="Azure Logic Apps"/> <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/>
+</p>
 
 AI agents for email, tickets, CRM and SAP data quality.
 
